@@ -18,3 +18,4 @@ jobs:
           changelog-notes-type: github
           release-type: maven
           pull-request-title-pattern: "chore: release${component} ${version}"
+          command: github-release
