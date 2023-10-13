@@ -1,5 +1,14 @@
 # Changelog
 
+## 3.0.0 (2023-10-13)
+
+## What's Changed
+* master by @DavidNowakowski in https://github.com/DavidNowakowski/release-please-test-maven-2/pull/17
+* chore(develop): release 2.1.1-SNAPSHOT by @github-actions in https://github.com/DavidNowakowski/release-please-test-maven-2/pull/16
+
+
+**Full Changelog**: https://github.com/DavidNowakowski/release-please-test-maven-2/compare/v2.1.0...v3.0.0
+
 ## 2.1.0 (2023-10-12)
 
 ## What's Changed
